@@ -1,0 +1,1 @@
+python contribute.py --max_commits=12 --frequency=60 --repository=git@github.com:user/repo.git
